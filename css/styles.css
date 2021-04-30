@@ -1,0 +1,12 @@
+div {
+    overflow: auto;
+    white-space: nowrap;
+  }
+  img {
+    height: 250px;
+    margin-right: 10px;
+  }
+  img:last-child {
+    margin-right: 5px;
+  }
+  
